@@ -1,8 +1,0 @@
-"GameState"
-{
-	"state.buildString"		"R5pc_r5-71_J105_CL704301_2020_11_23_17_38"
-	"state.totalMapsFullyConnectedTo"		"0"
-	"state.lastTimeStampInMinutes"		"0"
-	"state.wasGameRunning"		"1"
-	"state.lastMapFullyConnectedTo"		"mp_lobby"
-}
